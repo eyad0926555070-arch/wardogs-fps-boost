@@ -1,0 +1,5 @@
+yarn.lock linguist-generated
+*.html linguist-vendored
+*.yaml linguist-detectable=false
+*.ts linguist-detectable
+src/**/*.ts linguist-detectable
